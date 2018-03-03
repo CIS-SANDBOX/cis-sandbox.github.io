@@ -1,0 +1,7 @@
+# Site settings
+title: CIS-Sandbox
+description: Train yourself to reach higher
+keywords: CIS, OpernSource, projects, learn, gitClassroom
+author: Omal Perera
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
