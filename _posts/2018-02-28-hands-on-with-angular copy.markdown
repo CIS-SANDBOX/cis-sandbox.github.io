@@ -4,7 +4,7 @@ subtitle: "Experiance the difference"
 author: "Omal Perera"
 avatar: "img/authors/omalperera.png"
 image: "img/learn-angular.jpg"
-date:   2018-03-01 07:19:12
+date:   2017-03-01 07:19:12
 ---
 
 Enroll in this classroom to have hands-on expriance in Angular
