@@ -4,7 +4,7 @@ subtitle: "Be a pro in Git"
 author: "Omal Perera"
 avatar: "img/authors/omalperera.png"
 image: "img/learn-git.jpg"
-date:   2018-03-02 03:27:12
+date:   2018-03-03 03:27:12
 ---
 
 
