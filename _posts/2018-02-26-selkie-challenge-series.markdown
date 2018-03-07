@@ -4,7 +4,7 @@ subtitle: "build up a sytem by resolving issues 'LetMeHack' event challenge"
 author: "Omal Perera"
 avatar: "img/authors/omalperera.png"
 image: "img/selkie-challenge.jpg"
-date:   2018-02-27 12:12:12
+date:   2018-02-26 12:12:12
 ---
 
 Enroll in this classroom to complete the challenges & build a system. 
